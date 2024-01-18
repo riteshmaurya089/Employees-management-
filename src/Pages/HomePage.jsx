@@ -29,7 +29,7 @@ export const HomePage = () => {
     return (
       <div className="container">
         <h3>Home-Page</h3>
-        <h1>CRUD APPLICATION</h1>
+        <h1>Employee Management</h1>
         <EmployeeInput />
         <table>
           <thead>
